@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @net-bob
-- 👀 I’m interested in learning programming as a job
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on nothing right now, just learning stuff
+- 👀 I’m interested in learning programming for professional experience
+- 🌱 I’m currently learning Python, Java, and C
 - 📫 How to reach me jacklang0909@gmail.com
 
 <!---
